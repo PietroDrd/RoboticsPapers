@@ -24,9 +24,9 @@ We welcome contributions from everyone. Please read the [contributing guidelines
 <br></br>
 ## RL
 ### Quadrupeds and Legged
-- [Learning to Walk in Minutes Using Massively Parallel Deep Reinforcement Learning](https://arxiv.org/pdf/2109.11978) - [**Website**](https://leggedrobotics.github.io/legged_gym/) - [ ETH ]
+- [Learning to Walk in Minutes Using Massively Parallel Deep RL](https://arxiv.org/pdf/2109.11978) - [**Website**](https://leggedrobotics.github.io/legged_gym/) - [ ETH ]
 - [Learning Agile and Dynamic Motor Skills for Legged Robots](https://arxiv.org/pdf/1901.08652) - [**GitHub**](https://github.com/junja94/anymal_science_robotics_supplementary) - [ ETH ] 
-- [CaT: Constraints as Terminations for Legged Locomotion Reinforcement Learning](https://arxiv.org/pdf/2403.18765) - [**Website**](https://constraints-as-terminations.github.io./) - [ LAAS ]
+- [CaT: Constraints as Terminations for Legged Locomotion RL](https://arxiv.org/pdf/2403.18765) - [**Website**](https://constraints-as-terminations.github.io./) - [ LAAS ]
 
 ### Drones
 - [Champion-level drone racing using deep reinforcement learning](https://www.nature.com/articles/s41586-023-06419-4) - [**Code**](https://zenodo.org/records/7955278) - [ UZH ]
@@ -38,11 +38,12 @@ We welcome contributions from everyone. Please read the [contributing guidelines
 ### Theory
 
 ## MPC
-- [MPCC++: Model Predictive Contouring Control for Time-Optimal Flight with Safety Constraints](https://rpg.ifi.uzh.ch/docs/RSS24_KrinnerRomero.pdf) - - [ UZH ] 
+- [MPCC++: MPContouringC for Time-Optimal Flight with Safety Constraints](https://rpg.ifi.uzh.ch/docs/RSS24_KrinnerRomero.pdf) - - [ UZH ] 
 
 <br></br>
 ## RL + LLM
-- [Inner Monologue](https://arxiv.org/pdf/2207.05608) -[**website**](https://innermonologue.github.io/) - [ Google ]
+- [Inner Monologue](https://arxiv.org/pdf/2207.05608) -[**Website**](https://innermonologue.github.io/) - [ Google ]
+- [ExploRLLM: Guiding Exploration in RL with LLM](https://arxiv.org/html/2403.09583v2) - [**Website**](https://explorllm.github.io/) - [ TUD ]
 
 ### Theory
 
