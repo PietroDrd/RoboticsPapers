@@ -20,6 +20,8 @@ We welcome contributions from everyone. Please read the [contributing guidelines
 <br></br>
 ## Robots Concepts: Be Inspired!
 - [ReachBot](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10115893) - [**Website**](https://stanfordasl.github.io/projects/UnconvSpaceRobotics/) - [ Stanford ]
+- [RFusion](https://www.mit.edu/~fadel/papers/RFusion-paper.pdf) - [**Website**](https://www.media.mit.edu/publications/rfusion-robotic-grasping-via-rf-visual-sensing-and-learning/) - [ MIT ]
+- [SpaceHuman](https://dl.acm.org/doi/pdf/10.1145/3334480.3383087) -[**Website**](https://www.media.mit.edu/publications/spacehuman-a-soft-robotic-prosthetic-for-space-exploration/) - [ MIT ] 
 
 <br></br>
 ## RL
@@ -38,6 +40,9 @@ We welcome contributions from everyone. Please read the [contributing guidelines
 ### Theory
 
 ## MPC
+### Quadrupeds
+- [Highly Dynamic Quadruped Locomotion via Whole-Body Impulse Control and MPC](https://arxiv.org/pdf/1909.06586) - - [ MIT ]
+### Drones
 - [MPCC++: MPContouringC for Time-Optimal Flight with Safety Constraints](https://rpg.ifi.uzh.ch/docs/RSS24_KrinnerRomero.pdf) - - [ UZH ] 
 
 <br></br>
