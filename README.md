@@ -54,6 +54,9 @@ We welcome contributions from everyone. Please read the [contributing guidelines
 
 <br></br>
 ## ML
+- [Deep Learning](https://www.nature.com/articles/nature14539) - - [ NYU ]
+- [DL review](https://typeset.io/papers/review-of-deep-learning-concepts-cnn-architectures-hpbk62qzc2) - - [ QUT ]
+
 ### Supervised
 
 ### Unsupervised
