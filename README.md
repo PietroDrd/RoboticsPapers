@@ -42,6 +42,7 @@ Collection of the most interesting ROBOTICS papers i read and used
 - [Champion-level drone racing using deep reinforcement learning](https://www.nature.com/articles/s41586-023-06419-4) - [**Code**](https://zenodo.org/records/7955278) - [ UZH ]
 
 ### Humanoid
+- [HumanoidBench: Simulated Humanoid... Locomotion and Manipulation](https://arxiv.org/pdf/2403.10506)- [**Website**](https://humanoid-bench.github.io/) - [ UCB ]
 
 ### RL + LLM
 - [ExploRLLM: Guiding Exploration in RL with LLM](https://arxiv.org/html/2403.09583v2) - [**Website**](https://explorllm.github.io/) - [ TUD ]
