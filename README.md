@@ -1,8 +1,7 @@
 # RoboticsPapers
 Collection of the most interesting ROBOTICS papers i read and used 
 
-#### Contributing
-We welcome contributions from everyone. Please read the [contributing guidelines](contributing.md) for more details.
+**Contributing:** contributions are welcome! Please read the [contributing guidelines](contributing.md) for more details.
 
  <!--       Instructions for Contribuitors
    here we will just list and link interesting (Mid-High level) of easy understanding papers, 
@@ -24,6 +23,15 @@ We welcome contributions from everyone. Please read the [contributing guidelines
 - [SpaceHuman](https://dl.acm.org/doi/pdf/10.1145/3334480.3383087) -[**Website**](https://www.media.mit.edu/publications/spacehuman-a-soft-robotic-prosthetic-for-space-exploration/) - [ MIT ] 
 
 <br></br>
+## AI for Robots
+### Transformers
+- [Body Transformer: Leveraging Robot Embodiment for Policy Learning](https://arxiv.org/pdf/2408.06316) - [**Website**](https://sferrazza.cc/bot_site/) - [ UCB ]
+- [Transformers for Traj. Optimiz. Application to Spacecraft Rendezvous](https://arxiv.org/pdf/2310.13831) - [**Website**](https://rendezvoustransformer.github.io/) - [ Stanford ]
+### LLM, VLM
+- [Inner Monologue: Embodied Reasoning through Planning with LM](https://arxiv.org/pdf/2207.05608) - [**Website**](https://innermonologue.github.io/) - [ Google ]
+### Theory
+
+<br></br>
 ## RL
 ### Quadrupeds and Legged
 - [Learning to Walk in Minutes Using Massively Parallel Deep RL](https://arxiv.org/pdf/2109.11978) - [**Website**](https://leggedrobotics.github.io/legged_gym/) - [ ETH ]
@@ -35,22 +43,16 @@ We welcome contributions from everyone. Please read the [contributing guidelines
 
 ### Humanoid
 
-### Basics (Cart-Pole, Ant, Biped)
+### RL + LLM
+- [ExploRLLM: Guiding Exploration in RL with LLM](https://arxiv.org/html/2403.09583v2) - [**Website**](https://explorllm.github.io/) - [ TUD ]
 
-### Theory
+### Basics (Cart-Pole, Ant, Biped)
 
 ## MPC
 ### Quadrupeds
 - [Highly Dynamic Quadruped Locomotion via Whole-Body Impulse Control and MPC](https://arxiv.org/pdf/1909.06586) - - [ MIT ]
 ### Drones
 - [MPCC++: MPContouringC for Time-Optimal Flight with Safety Constraints](https://rpg.ifi.uzh.ch/docs/RSS24_KrinnerRomero.pdf) - - [ UZH ] 
-
-<br></br>
-## RL + LLM
-- [Inner Monologue](https://arxiv.org/pdf/2207.05608) -[**Website**](https://innermonologue.github.io/) - [ Google ]
-- [ExploRLLM: Guiding Exploration in RL with LLM](https://arxiv.org/html/2403.09583v2) - [**Website**](https://explorllm.github.io/) - [ TUD ]
-
-### Theory
 
 <br></br>
 ## ML
@@ -64,19 +66,12 @@ We welcome contributions from everyone. Please read the [contributing guidelines
 ### Regression - Prediciton
 
 <br></br>
-## AI
-
-### Theory
-
-<br></br>
 ## Control
 ### Actuators
 
 ### Particular Plants
 
 ### Common Plants (SISO, MISO, Linear)
-
-### Theory
 
 <br></br>
 ## License
