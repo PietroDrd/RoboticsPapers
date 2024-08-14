@@ -48,6 +48,7 @@ Collection of the most interesting ROBOTICS papers i read and used
 
 ### Basics (Cart-Pole, Ant, Biped)
 
+<br></br>
 ## MPC
 ### Quadrupeds
 - [Highly Dynamic Quadruped Locomotion via Whole-Body Impulse Control and MPC](https://arxiv.org/pdf/1909.06586) - - [ MIT ]
