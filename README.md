@@ -27,6 +27,7 @@ Collection of the most interesting ROBOTICS papers i read and used
 ### Transformers
 - [Body Transformer: Leveraging Robot Embodiment for Policy Learning](https://arxiv.org/pdf/2408.06316) - [**Website**](https://sferrazza.cc/bot_site/) - [ UCB ]
 - [Transformers for Traj. Optimiz. Application to Spacecraft Rendezvous](https://arxiv.org/pdf/2310.13831) - [**Website**](https://rendezvoustransformer.github.io/) - [ Stanford ]
+- [Transformer-Based Neural Augmentation of Robot Sim. Representations](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10113169&tag=1) - [**Website**](https://la.disneyresearch.com/publication/transformer-based-neural-augmentation-of-robot-simulation-representations/) - [ ETH-Dysney ]
 ### LLM, VLM
 - [Inner Monologue: Embodied Reasoning through Planning with LM](https://arxiv.org/pdf/2207.05608) - [**Website**](https://innermonologue.github.io/) - [ Google ]
 ### Theory
@@ -37,6 +38,7 @@ Collection of the most interesting ROBOTICS papers i read and used
 - [Learning to Walk in Minutes Using Massively Parallel Deep RL](https://arxiv.org/pdf/2109.11978) - [**Website**](https://leggedrobotics.github.io/legged_gym/) - [ ETH ]
 - [Learning Agile and Dynamic Motor Skills for Legged Robots](https://arxiv.org/pdf/1901.08652) - [**GitHub**](https://github.com/junja94/anymal_science_robotics_supplementary) - [ ETH ] 
 - [CaT: Constraints as Terminations for Legged Locomotion RL](https://arxiv.org/pdf/2403.18765) - [**Website**](https://constraints-as-terminations.github.io./) - [ LAAS ]
+- [Design and Control of a Bipedal Robotic Character](https://la.disneyresearch.com/wp-content/uploads/BD_X_paper.pdf) - [**Website**](https://la.disneyresearch.com/publication/design-and-control-of-a-bipedal-robotic-character/) - [ ETH-Disney ]
 
 ### Drones
 - [Champion-level drone racing using deep reinforcement learning](https://www.nature.com/articles/s41586-023-06419-4) - [**Code**](https://zenodo.org/records/7955278) - [ UZH ]
@@ -44,8 +46,9 @@ Collection of the most interesting ROBOTICS papers i read and used
 ### Humanoid
 - [HumanoidBench: Simulated Humanoid... Locomotion and Manipulation](https://arxiv.org/pdf/2403.10506)- [**Website**](https://humanoid-bench.github.io/) - [ UCB ]
 
-### RL + LLM
+### RL + AI (LLM, VLM, AE)
 - [ExploRLLM: Guiding Exploration in RL with LLM](https://arxiv.org/html/2403.09583v2) - [**Website**](https://explorllm.github.io/) - [ TUD ]
+- [VMP: Versatile Motion Priors for Robustly Tracking Motion on Physical Characters](https://la.disneyresearch.com/wp-content/uploads/VMP_paper.pdf) - [**Website**](https://la.disneyresearch.com/publication/vmp-versatile-motion-priors-for-robustly-tracking-motion-on-physical-characters/) - [ ETH-Disney ]
 
 ### Basics (Cart-Pole, Ant, Biped)
 
