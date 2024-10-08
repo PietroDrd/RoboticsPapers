@@ -25,6 +25,7 @@ Collection of the most interesting ROBOTICS papers i read and used
 <br></br>
 ## AI for Robots
 ### Transformers
+- [Decision Transformer: Reinforcement Learning via Sequence Modeling](https://arxiv.org/pdf/2106.01345) - [**Website**](https://sites.google.com/berkeley.edu/decision-transformer) - [ Berkeley ]
 - [Body Transformer: Leveraging Robot Embodiment for Policy Learning](https://arxiv.org/pdf/2408.06316) - [**Website**](https://sferrazza.cc/bot_site/) - [ UCB ]
 - [Transformers for Traj. Optimiz. Application to Spacecraft Rendezvous](https://arxiv.org/pdf/2310.13831) - [**Website**](https://rendezvoustransformer.github.io/) - [ Stanford ]
 - [Transformer-Based Neural Augmentation of Robot Sim. Representations](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10113169&tag=1) - [**Website**](https://la.disneyresearch.com/publication/transformer-based-neural-augmentation-of-robot-simulation-representations/) - [ ETH-Dysney ]
