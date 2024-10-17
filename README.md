@@ -31,7 +31,7 @@ Collection of the most interesting ROBOTICS papers i read and used
 - [Transformer-Based Neural Augmentation of Robot Sim. Representations](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10113169&tag=1) - [**Website**](https://la.disneyresearch.com/publication/transformer-based-neural-augmentation-of-robot-simulation-representations/) - [ ETH-Dysney ]
 ### LLM, VLM
 - [Inner Monologue: Embodied Reasoning through Planning with LM](https://arxiv.org/pdf/2207.05608) - [**Website**](https://innermonologue.github.io/) - [ Google ]
-- [ROS-LLM: A ROS framework for embodied AI with task feedback and structured reasoning](https://arxiv.org/abs/2406.19741) - - - [ ETH - Huawei ...]
+- [ROS-LLM: A ROS framework for embodied AI with task feedback and structured reasoning](https://arxiv.org/abs/2406.19741) -  - [ ETH - Huawei ...]
 ### Theory
 
 <br></br>
