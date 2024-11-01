@@ -21,6 +21,7 @@ Collection of the most interesting ROBOTICS papers i read and used
 - [ReachBot](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10115893) - [**Website**](https://stanfordasl.github.io/projects/UnconvSpaceRobotics/) - [ Stanford ]
 - [RFusion](https://www.mit.edu/~fadel/papers/RFusion-paper.pdf) - [**Website**](https://www.media.mit.edu/publications/rfusion-robotic-grasping-via-rf-visual-sensing-and-learning/) - [ MIT ]
 - [SpaceHuman](https://dl.acm.org/doi/pdf/10.1145/3334480.3383087) -[**Website**](https://www.media.mit.edu/publications/spacehuman-a-soft-robotic-prosthetic-for-space-exploration/) - [ MIT ] 
+- [LoCo Quad](https://arxiv.org/pdf/2003.09025) - [**Github**](https://github.com/TomBlackroad/LoCoQuad) - [ UniZar ]
 
 <br></br>
 ## AI for Robots
