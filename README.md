@@ -34,6 +34,8 @@ Collection of the most interesting ROBOTICS papers i read and used
 - [Inner Monologue: Embodied Reasoning through Planning with LM](https://arxiv.org/pdf/2207.05608) - [**Website**](https://innermonologue.github.io/) - [ Google ]
 - [ROS-LLM: A ROS framework for embodied AI with task feedback and structured reasoning](https://arxiv.org/abs/2406.19741) -  - [ ETH - Huawei ...]
 ### Theory
+### Generic
+- [Simple Transformers](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/rajapakse-2024-simple.pdf) - [**Website**](https://simpletransformers.ai/) - [UVAmsterdam]
 
 <br></br>
 ## RL
